@@ -110,8 +110,8 @@
         border:40px solid #ccd5e4;
     }
     .btn-primary{
-        background: #135a1e !important;
-        border-color:#004f09 !important;
+        background: #355995 !important;
+        border-color:#355995 !important;
         text-align:center;
         color:white !important;
         
@@ -121,8 +121,8 @@
         color:black;
     }
     .btn-primary:hover{
-    background: #135a1e !important;
-        border-color:#004f09 !important;
+    background: #355995 !important;
+        border-color:#355995 !important;
         text-align:center;
         color:white !important;
     }
@@ -133,7 +133,7 @@
     }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
-        color:#dce6dd;
+        color:#d9f1fb;
     }
     
     .site_welcome_msg{
@@ -148,32 +148,32 @@
     }
     /*social media box color*/
     #social_media_wrapper{
-        background:#135a1e;
+        background:#355995;
     }
     /*social media icon inner color*/
     #social_media_wrapper a{
-        color:#135a1e;
+        color:#355995;
         background:white !important;
         
     }
     #social_media_wrapper a:hover{
         color: white !important;
-        background:#135a1e !important;
+        background:#355995 !important;
     }
     p input[type='image']{
        width:100% !important;
    }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
-    fill: #c4d6c7;
+    fill: #ccd5e4;
     }
     /*inside page banners*/
     .page_banner{
-        background: #4e8356;
+        background: #6882af;
     }
     
     #description_section{
-        background:#4e8356;
+        background:#6882af;
     }
     
     .section_header{}
@@ -183,23 +183,23 @@
     }
     
    .view_button {
-        background:#135a1e !important;
+        background:#355995 !important;
     }
     .right_column_header {
-        color: #135a1e ;
+        color: #355995 ;
     }
     
     .navbar .nav li a:hover {
-        color:#dce6dd !important;
+        color:#d9f1fb !important;
     
     }
      .site-map-section a:hover {
-         color:#dce6dd !important;
+         color:#d9f1fb !important;
      }
     @media (max-width: 767px) {
         .main_window{
             width:100%;
-            border:15px solid #c4d6c7 !important;
+            border:15px solid #ccd5e4 !important;
             border-top:none !important;
         }  
     }
