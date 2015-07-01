@@ -102,6 +102,11 @@
         text-decoration:inherit;
     }
     
+    .contest_image {
+  width: auto;
+  height: auto;
+}
+
     /*hyperlink hover color*/
     a:hover{
         color: #6882af !important;
