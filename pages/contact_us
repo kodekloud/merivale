@@ -20,30 +20,30 @@
                         <p class="directory_content">{{address1}}</p>
                         <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                         <br>
-                    <p class="directory_content"><strong>Bob Armstrong</strong> 
+                    <p class="directory_content"><strong>Cindy Lavigne</strong> 
                     <br>General Manager
-                    <br>613-226-1290 X 226
-                    <br><a href="mailto:barmstrong@bentallkennedy.com">barmstrong@bentallkennedy.com</a></p>
+                    <br>613-226-1290 ext. 226
+                    <br><a href="mailto:clavigne@bentallkennedy.com">clavigne@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Les Stephenson</strong> 
                    <br>Operations Manager
-                   <br>613-226-1290 x 228
+                   <br>613-226-1290 ext. 228
                    <br><a href="mailto:lstephenson@bentallkennedy.com" target="_blank">lstephenson@bentallkennedy.com</a></p>
                    <br>
                    
-                   <p class="directory_content"><strong>Ricki Armitage</strong> 
-                   <br>Marketing Coordinator
-                   <br>613-226-1290 x 225
-                   <br><a href="mailto:rarmitage@bentallkennedy.com">rarmitage@bentallkennedy.com</a></p>
+                   <p class="directory_content"><strong>Melanie Westland</strong> 
+                   <br>Marketing Director
+                   <br>613-226-1290 ext. 225
+                   <br><a href="mailto:mwestland@bentallkennedy.com">mwestland@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Christina Deryke</strong> 
                    <br>Retail Accounts Coordinator
-                   <br>613-0226-1290 x 222
+                   <br>613-0226-1290 ext. 222
                    <br> <a href="mailto:cderyke@bentallkennedy.com">cderyke@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Kirsty Mcaleese</strong> 
                    <br>Administrative Assistant/Receptionist
-                   <br>613-226-1290 x 223
+                   <br>613-226-1290 ext. 223
                    <br> <a href="mailto:kmcaleese@bentallkennedy.com">kmcaleese@bentallkennedy.com</a></p>
                    <br>
                    <p class="directory_content"><strong>Security</strong> 
@@ -115,30 +115,30 @@
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                      <br>
-                    <p class="directory_content"><strong>Bob Armstrong</strong> 
+                    <p class="directory_content"><strong>Cindy Lavigne</strong> 
                     <br>General Manager
-                    <br>613-226-1290 X 226
-                    <br><a href="mailto:barmstrong@bentallkennedy.com">barmstrong@bentallkennedy.com</a></p>
+                    <br>613-226-1290 ext. 226
+                    <br><a href="mailto:clavigne@bentallkennedy.com">clavigne@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Les Stephenson</strong> 
                    <br>Operations Manager
-                   <br>613-226-1290 x 228
+                   <br>613-226-1290 ext. 228
                    <br><a href="mailto:lstephenson@bentallkennedy.com" target="_blank">lstephenson@bentallkennedy.com</a></p>
                    <br>
                    
-                   <p class="directory_content"><strong>Ricki Armitage</strong> 
-                   <br>Marketing Coordinator
-                   <br>613-226-1290 x 225
-                   <br><a href="mailto:rarmitage@bentallkennedy.com">rarmitage@bentallkennedy.com</a></p>
+                   <p class="directory_content"><strong>Melanie Westland</strong> 
+                   <br>Marketing Director
+                   <br>613-226-1290 ext. 225
+                   <br><a href="mailto:mwestland@bentallkennedy.com">mwestland@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Christina Deryke</strong> 
                    <br>Retail Accounts Coordinator
-                   <br>613-0226-1290 x 222
+                   <br>613-0226-1290 ext. 222
                    <br> <a href="mailto:cderyke@bentallkennedy.com">cderyke@bentallkennedy.com</a></p>
                     <br>
                    <p class="directory_content"><strong>Kirsty Mcaleese</strong> 
                    <br>Administrative Assistant/Receptionist
-                   <br>613-226-1290 x 223
+                   <br>613-226-1290 ext. 223
                    <br> <a href="mailto:kmcaleese@bentallkennedy.com">kmcaleese@bentallkennedy.com</a></p>
                    <br>
                    <p class="directory_content"><strong>Security</strong> 
