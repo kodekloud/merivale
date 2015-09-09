@@ -4,6 +4,11 @@
     .contest_description{
         margin-bottom:35px;
     }
+    .contest_image {
+    width: auto;
+    height: auto;
+    display: none;
+}
     .contest_form_div{
         margin-top:20px;
         width:75%;
